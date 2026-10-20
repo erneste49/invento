@@ -11,7 +11,7 @@ const Header = () => {
 
     return (
         <header className="border-b border-slate-200 bg-white">
-            <div className="mx-auto flex min-h-16 w-full max-w-6xl items-center justify-between px-4 sm:min-h-[72px] sm:px-6 lg:px-8">
+            <div className="mx-auto flex min-h-16 w-full max-w-6xl items-center justify-between px-4 sm:min-h-18 sm:px-6 lg:px-8">
                 <a className="inline-flex items-center gap-3 text-lg font-bold tracking-tight text-slate-900 no-underline" href="/" aria-label="Invento home">
                     <span className="grid size-10 place-items-center rounded-xl bg-blue-50 text-blue-600" aria-hidden="true">
                         <svg className="size-5" viewBox="0 0 24 24" fill="none">

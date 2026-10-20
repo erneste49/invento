@@ -16,7 +16,7 @@ const Products = () => {
             </div>
             {products.length > 0 ? (
                 <div className="overflow-x-auto px-4 pb-5 pt-4 sm:px-6 sm:pb-6">
-                    <table className="w-full min-w-[520px] border-collapse text-left">
+                    <table className="w-full min-w-130 border-collapse text-left">
                         <thead className="bg-slate-50 text-xs uppercase tracking-wide text-slate-500">
                             <tr className="[&>th:first-child]:rounded-l-lg [&>th:last-child]:rounded-r-lg">
                                 <th scope="col" className="px-4 py-3 font-semibold">No.</th>
